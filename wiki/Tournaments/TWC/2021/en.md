@@ -39,15 +39,17 @@ The osu!taiko World Cup 2021 is run by various community members.
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Mappool selector | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107) |
-| Commentator | *-- To be announced --* |
-| Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Commentator | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
+| Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1241159)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/TWC_2021)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/53) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTImDZNlIdekerlWWr-TR82GKRflboYOcu3ZEqqeTuaSKQfOuY5WO2rS8p5lPjbvtZ5xZdY_iVGNcTI/pubhtml)**
 
 ## Participants
 
@@ -88,67 +90,128 @@ The osu!taiko World Cup 2021 is run by various community members.
 
 ---
 
-## Match schedule: Group Stage
+## Match schedule: Finals
 
-### Saturday, 6 March 2020
+### Saturday, 3 April 2021
 
-| Team A | Team B | Match time | Local time A | Local time B |
-| --: | :-- | :-: | :-: | :-: |
-| Italy ![][flag_IT] | ![][flag_NZ] New Zealand | **09:00 UTC** | 10:00 UTC+01 | 22:00 UTC+13 |
-| Taiwan ![][flag_TW] | ![][flag_AU] Australia | **10:00 UTC** | 18:00 UTC+08 | 21:00 UTC+11 |
-| Japan ![][flag_JP] | ![][flag_FI] Finland | **10:00 UTC** | 19:00 UTC+09 | 12:00 UTC+02 |
-| Germany ![][flag_DE] | ![][flag_AU] Australia | **11:00 UTC** | 12:00 UTC+01 | 22:00 UTC+11 |
-| Thailand ![][flag_TH] | ![][flag_PL] Poland | **11:00 UTC** | 18:00 UTC+07 | 12:00 UTC+01 |
-| France ![][flag_FR] | ![][flag_CN] China | **11:00 UTC** | 12:00 UTC+01 | 19:00 UTC+08 |
-| Netherlands ![][flag_NL] | ![][flag_VN] Vietnam | **12:00 UTC** | 13:00 UTC+01 | 19:00 UTC+07 |
-| Japan ![][flag_JP] | ![][flag_MY] Malaysia | **12:00 UTC** | 21:00 UTC+09 | 20:00 UTC+08 |
-| Thailand ![][flag_TH] | ![][flag_TR] Turkey | **12:00 UTC** | 19:00 UTC+07 | 15:00 UTC+03 |
-| Malaysia ![][flag_MY] | ![][flag_CL] Chile | **13:00 UTC** | 21:00 UTC+08 | 10:00 UTC-03 |
-| Argentina ![][flag_AR] | ![][flag_PH] Philippines | **13:00 UTC** | 10:00 UTC-03 | 21:00 UTC+08 |
-| South Korea ![][flag_KR] | ![][flag_ID] Indonesia | **13:00 UTC** | 22:00 UTC+09 | 20:00 UTC+07 |
-| Indonesia ![][flag_ID] | ![][flag_CO] Colombia | **15:00 UTC** | 22:00 UTC+07 | 10:00 UTC-05 |
-| United Kingdom ![][flag_GB] | ![][flag_PT] Portugal | **15:00 UTC** | 15:00 UTC | 15:00 UTC |
-| Italy ![][flag_IT] | ![][flag_FR] France | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 |
-| Argentina ![][flag_AR] | ![][flag_RU] Russian Federation | **15:00 UTC** | 12:00 UTC-03 | 18:00 UTC+03 |
-| United Kingdom ![][flag_GB] | ![][flag_CH] Switzerland | **16:00 UTC** | 16:00 UTC | 18:00 UTC+02 |
-| Poland ![][flag_PL] | ![][flag_TR] Turkey | **16:00 UTC** | 17:00 UTC+01 | 19:00 UTC+03 |
-| Germany ![][flag_DE] | ![][flag_AT] Austria | **16:00 UTC** | 17:00 UTC+01 | 17:00 UTC+01 |
-| Russian Federation ![][flag_RU] | ![][flag_CR] Costa Rica | **17:00 UTC** | 20:00 UTC+03 | 11:00 UTC-06 |
-| Canada ![][flag_CA] | ![][flag_TR] Turkey | **17:00 UTC** | 12:00 UTC-05 | 20:00 UTC+03 |
-| Portugal ![][flag_PT] | ![][flag_CH] Switzerland | **17:00 UTC** | 17:00 UTC | 19:00 UTC+02 |
-| Finland ![][flag_FI] | ![][flag_CL] Chile | **18:00 UTC** | 20:00 UTC+02 | 15:00 UTC-03 |
-| Canada ![][flag_CA] | ![][flag_PL] Poland | **18:00 UTC** | 13:00 UTC-05 | 19:00 UTC+01 |
-| Brazil ![][flag_BR] | ![][flag_CH] Switzerland | **18:00 UTC** | 15:00 UTC-03 | 20:00 UTC+02 |
-| United States ![][flag_US] | ![][flag_NL] Netherlands | **19:00 UTC** | 12:00 UTC-07 | 20:00 UTC+01 |
-| Brazil ![][flag_BR] | ![][flag_GB] United Kingdom | **19:00 UTC** | 16:00 UTC-03 | 19:00 UTC |
-| Argentina ![][flag_AR] | ![][flag_CR] Costa Rica | **20:00 UTC** | 17:00 UTC-03 | 14:00 UTC-06 |
-| Mexico ![][flag_MX] | ![][flag_CO] Colombia | **20:00 UTC** | 14:00 UTC-06 | 15:00 UTC-05 |
+| Team A | Team B | Match time | Local time A | Local time B |  |
+| --: | :-- | :-: | :-: | :-: | :-: |
+| South Korea ![][flag_KR] | ![][flag_SG] Singapore | **10:00 UTC** | 19:00 UTC+09 | 18:00 UTC+08 | ² |
+| Argentina ![][flag_AR] | ![][flag_CA] Canada | **19:00 UTC** | 16:00 UTC-03 | 14:00 UTC-05 | ² |
 
-### Sunday, 7 March 2020
+### Sunday, 4 April 2021
 
-| Team A | Team B | Match time | Local time A | Local time B |
-| --: | :-- | :-: | :-: | :-: |
-| South Korea ![][flag_KR] | ![][flag_CO] Colombia | **02:00 UTC** | 11:00 UTC+09 | 22:00 (Sat.) UTC-05 |
-| South Korea ![][flag_KR] | ![][flag_MX] Mexico | **03:00 UTC** | 12:00 UTC+09 | 21:00 (Sat.) UTC-06 |
-| Canada ![][flag_CA] | ![][flag_TH] Thailand | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 10:00 UTC+07 |
-| Philippines ![][flag_PH] | ![][flag_CR] Costa Rica | **03:00 UTC** | 11:00 UTC+08 | 21:00 (Sat.) UTC-06 |
-| United States ![][flag_US] | ![][flag_SG] Singapore | **03:00 UTC** | 20:00 (Sat.) UTC-07 | 11:00 UTC+08 |
-| Indonesia ![][flag_ID] | ![][flag_MX] Mexico | **04:00 UTC** | 11:00 UTC+07 | 22:00 (Sat.) UTC-06 |
-| United States ![][flag_US] | ![][flag_VN] Vietnam | **04:00 UTC** | 21:00 (Sat.) UTC-07 | 11:00 UTC+07 |
-| China ![][flag_CN] | ![][flag_NZ] New Zealand | **04:00 UTC** | 12:00 UTC+08 | 17:00 UTC+13 |
-| France ![][flag_FR] | ![][flag_NZ] New Zealand | **09:00 UTC** | 10:00 UTC+01 | 22:00 UTC+13 |
-| Australia ![][flag_AU] | ![][flag_AT] Austria | **10:00 UTC** | 21:00 UTC+11 | 11:00 UTC+01 |
-| Singapore ![][flag_SG] | ![][flag_VN] Vietnam | **10:00 UTC** | 18:00 UTC+08 | 17:00 UTC+07 |
-| Taiwan ![][flag_TW] | ![][flag_AT] Austria | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
-| Italy ![][flag_IT] | ![][flag_CN] China | **12:00 UTC** | 13:00 UTC+01 | 20:00 UTC+08 |
-| Philippines ![][flag_PH] | ![][flag_RU] Russian Federation | **12:00 UTC** | 20:00 UTC+08 | 15:00 UTC+03 |
-| Japan ![][flag_JP] | ![][flag_CL] Chile | **13:00 UTC** | 22:00 UTC+09 | 10:00 UTC-03 |
-| Malaysia ![][flag_MY] | ![][flag_FI] Finland | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
-| Singapore ![][flag_SG] | ![][flag_NL] Netherlands | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
-| Germany ![][flag_DE] | ![][flag_TW] Taiwan | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
-| Brazil ![][flag_BR] | ![][flag_PT] Portugal | **14:00 UTC** | 11:00 UTC-03 | 14:00 UTC |
+| Team A | Team B | Match time | Local time A | Local time B |  |
+| --: | :-- | :-: | :-: | :-: | :-: |
+| Canada ![][flag_CA] | ![][flag_KR] South Korea | **02:00 UTC** | 21:00 (Sat.) UTC-05 | 11:00 UTC+09 | ³ |
+| Canada ![][flag_CA] | ![][flag_SG] Singapore | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 11:00 UTC+08 | ³ |
+| Argentina ![][flag_AR] | ![][flag_SG] Singapore | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 | ³ |
+| Argentina ![][flag_AR] | ![][flag_KR] South Korea | **16:00 UTC** | 13:00 UTC-03 | 01:00 (Mon.) UTC+09 | ³ |
+| Brazil ![][flag_BR] | ![][flag_JP] Japan | **17:30 UTC** | 14:30 UTC-03 | 02:30 (Mon.) UTC+09 | ¹ |
+
+¹ Winner bracket encounter\
+² Loser bracket encounter\
+³ Encounter dependent on results of ²Loser bracket encounter
 
 ## Mappools
+
+### Finals
+
+- NoMod
+  - [Camellia - SCREW // owo // SCREW (roufou) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1230293#taiko/2557747)
+  - [Metaroom - Angel (Genjuro) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/1415961#taiko/2918088)
+  - [Colorful Sounds Port - ETERNAL DRAIN (\_yu68) \[DX\]](https://osu.ppy.sh/beatmapsets/573197#taiko/1214311)
+  - [DubscribeS - Blood Rave (Final Sketch Remix) (tasuke912) \[TAIKO-HOLiC\]](https://osu.ppy.sh/beatmapsets/523630#taiko/1111605)
+  - [Camellia - \*Feels Seasickness...\* (Firce777) \[Firce777's Taiko\]](https://osu.ppy.sh/beatmapsets/958050#taiko/2005989)
+  - [Lazhward - CFIT (-Kazu-) \[Bicolor Airline\]](https://osu.ppy.sh/beatmapsets/1273664#taiko/2724417)
+- Hidden
+  - [YUTO - Theory (te2035) \[LEGGENDARIA Oni\]](https://osu.ppy.sh/beatmapsets/1187561#taiko/2483087)
+  - [Cranky - R176 (7\_7 Remix) (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/1416001#taiko/2918150)
+- HardRock
+  - [Camellia as "Bang Riot" - Blastix Riotz (Nwolf) \[WereOni\]](https://osu.ppy.sh/beatmapsets/351644#taiko/774996)
+  - [Silentroom - F1055 (HiroK) \[Flowness\]](https://osu.ppy.sh/beatmapsets/1224716#taiko/2547165)
+- DoubleTime
+  - [DragonForce - Symphony of the Night (Raiden) \[Tatsujin\]](https://osu.ppy.sh/beatmapsets/555073#taiko/1174919)
+  - [cillia - Ringo Uri no Utakata Shoujo (mintong89) \[Ringo Oni\]](https://osu.ppy.sh/beatmapsets/398423#taiko/866288)
+- FreeMod
+  - [Groovecube - How Are You (cdhsausageboy) \[I'm Die, Thank You Forever.\]](https://osu.ppy.sh/beatmapsets/1415947#taiko/2918060)
+  - [Culprate & Dictate - Pencilina (KyouRekii87) \[Taiko-K-2\]](https://osu.ppy.sh/beatmapsets/1097657#taiko/2911497)
+  - [Hatsune Miku - boku-boku (Lan wings) \[Ishida's Hell Taiko\]](https://osu.ppy.sh/beatmapsets/51611#taiko/176945)
+- Tiebreaker
+  - **[Mori Calliope - Excuse My Rudeness, But Could You Please RIP (ReeK's "Dude Whats A Genre" Remix) (Cynplytholowazy) \[Pardon My Insolence, But Could You Please Enjoy Capushellowazy's Taiko Flavor?\]](https://osu.ppy.sh/beatmapsets/1415979#taiko/2918121)**
+
+### Semifinals
+
+- NoMod
+  - [TAROLIN - world.[NOT].excuse(nxc); (applerss) \[world.execute(me);\]](https://osu.ppy.sh/beatmapsets/724063#taiko/1528895)
+  - [.alucard - Dream Chamber (Socus) \[#unavoidable_nihil\]](https://osu.ppy.sh/beatmapsets/1408782#taiko/2904953)
+  - [rerulili - Noushou Sakuretsu Girl (Consified) \[twc feat. consified\]](https://osu.ppy.sh/beatmapsets/1408783#taiko/2904882)
+  - [Hideous Divinity - When Flesh Unfolds (frukoyurdakul) \[Merciless Oni\]](https://osu.ppy.sh/beatmapsets/1408767#taiko/2904856)
+  - [phonon - polyriddim (GNKait) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1272221#taiko/2643612)
+  - [leroy - ricky bobby (Ulqui) \[HYPERVENTILATION\]](https://osu.ppy.sh/beatmapsets/1408768#taiko/2904857)
+- Hidden
+  - [Kobaryo - SEITEN NO TERIYAKI (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/1408776#taiko/2904868)
+  - [Crimsona - Hyper Fiber World Spectrum (4sbet1) \[Collab Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1405771#taiko/2904878)
+- HardRock
+  - [Kurokotei - Serphut (Nifty) \[Oni\]](https://osu.ppy.sh/beatmapsets/1408888#taiko/2905127)
+  - [Katagiri - Track 40 (rezi888) \[230mP\]](https://osu.ppy.sh/beatmapsets/1408775#taiko/2904867)
+- DoubleTime
+  - [Anamanaguchi - Blackout City (Sushi) \[Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/67226#taiko/195478)
+  - [Infected Mushroom - Spitfire (yea) \[Attack\]](https://osu.ppy.sh/beatmapsets/880548#taiko/1841309)
+- FreeMod
+  - [sak respect for Arata Iiyoshi - Reason of being (D o t) \[tasuke's Upheaval\]](https://osu.ppy.sh/beatmapsets/809965#taiko/1733315)
+  - [Shiron - Deadly Dolly Dance (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1408773#taiko/2904864)
+  - [DJ Sharpnel - Gate Openerz (LZD) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1408781#taiko/2904879)
+- Tiebreaker
+  - **[Dz'Xa - RAGECONTROLEX (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/1408772#taiko/2904863)**
+
+### Quarterfinals
+
+- NoMod
+  - [MisoilePunch - Fin.ArcDeaR (OzzyOzrock) \[End.OniDrum\]](https://osu.ppy.sh/beatmapsets/731630#taiko/1543921)
+  - [Dz'Xa - 8284-TM (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1335803#taiko/2767410)
+  - [38 Ban - Milk Crown on Sonnetica (\_Rise) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1349766#taiko/2794625)
+  - [hana@\*omori - Seimei no wa wo tsumuide (Ozu) \[F Inner Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/707622#taiko/2893294)
+  - [EZFG - Bluff Liar (Nwolf) \[Fake Oni\]](https://osu.ppy.sh/beatmapsets/1402191#taiko/2892727)
+- Hidden
+  - [sasakure.UK - Xlo (zkane2) \[irregular time signature\]](https://osu.ppy.sh/beatmapsets/1402226#taiko/2892771)
+  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Zetera) \[Ura Dial\]](https://osu.ppy.sh/beatmapsets/1402214#taiko/2892755)
+- HardRock
+  - [Memme - Platina (Naryuga) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1402927#taiko/2893927)
+  - [Fleshgod Apocalypse - Pathfinder (Raiden) \[Terror Oni\]](https://osu.ppy.sh/beatmapsets/454951#taiko/975271)
+- DoubleTime
+  - [HyuN - Grin (radar) \[when the when\]](https://osu.ppy.sh/beatmapsets/1402385#taiko/2893024)
+  - [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE (Nardoxyribonucleic) \[Oni\]](https://osu.ppy.sh/beatmapsets/312658#taiko/697898)
+- FreeMod
+  - [Brymir - Nephilim (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/727270#taiko/1535391)
+  - [Yu_Asahina - Gianduja (Alchyr) \[Oni\]](https://osu.ppy.sh/beatmapsets/1402196#taiko/2892733)
+  - [ARM - Rhododendron (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/386620#taiko/844135)
+- Tiebreaker
+  - **[Toby Fox/Toby Fox (remixed by Camellia) - MEGALOVANIA (Camellia Remix) (7\_7) \[7oni\]](https://osu.ppy.sh/beatmapsets/1042172#taiko/2892022)**
+
+### Round of 16
+
+- NoMod
+  - [Electric Music Department (Jingumae Sando Academy) - Hyper Bass Feat. Yunomi (7\_7 bootleg) (EJ\_\_) \[sv\]](https://osu.ppy.sh/beatmapsets/1351301#taiko/2797899)
+  - [T-HEY - the Chameleon (femboy mapper) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1395289#taiko/2880037)
+  - [Neko Hacker - Aimai Cyborg (feat. Ugokuchan & JungMato) (KinomiCandy) \[Ambiguous Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1343645#taiko/2782966)
+  - [Carnifex - Dark Days (Grimbow) \[Eclipse V2\]](https://osu.ppy.sh/beatmapsets/1238818#taiko/2879952)
+  - [fn(ArcaeaSoundTeam) - Red and Blue and Green (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1209776#taiko/2518712)
+- Hidden
+  - [Nekomata Master+ - AFRO KNUCKLE (femboy mapper) \[Samba Oni\]](https://osu.ppy.sh/beatmapsets/1395286#taiko/2880034)
+  - [TUYU - Anoyo-iki no Bus ni Notte Saraba. (\_Rise) \[Inner Oni (Edit)\]](https://osu.ppy.sh/beatmapsets/1216596#taiko/2879910)
+- HardRock
+  - [96-glass - You're my everything (te2035) \[breakcore is my everything but twc not\]](https://osu.ppy.sh/beatmapsets/1324528#taiko/2879954)
+  - [Whispered - Unrestrained (LZD) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/569779#taiko/1207835)
+- DoubleTime
+  - [SECONDWALL - Light (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/1318825#taiko/2733144)
+  - [Infected Mushroom - Kipod (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/305394#taiko/683991)
+- FreeMod
+  - [taigat - plAnet (CANTAX Remix) (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1157104#taiko/2414712)
+  - [owl\*tree feat.chi\*tree - Valsqotch (hoku) \[TWC Flutter ^-^\]](https://osu.ppy.sh/beatmapsets/1395252#taiko/2879960)
+  - [Frums - Zephyrs (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1395165#taiko/2879802)
+- Tiebreaker
+  - **[ulko - REGGAETON BUT IT HAS AMEN BREAKS (D3kuu) \[TATSUJIN\]](https://osu.ppy.sh/beatmapsets/1013247#taiko/2120869)**
 
 ### Group Stage
 
@@ -172,6 +235,128 @@ The osu!taiko World Cup 2021 is run by various community members.
   - [Equilibrium - Rise Again (LZD) \[Inner Oni TWC ver.\]](https://osu.ppy.sh/beatmapsets/645370#taiko/2865284)
 - Tiebreaker
   - **[NIWASHI - Playing with Ruby (goheegy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/835717#taiko/2865258)**
+
+## Match results
+
+### Semifinals
+
+Saturday, 27 March 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Singapore** ![][flag_SG] | **7** | 5 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/79197123) |
+| **Italy** ![][flag_IT] | **7** | 0 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/79203211) |
+| **Canada** ![][flag_CA] | **7** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/79210161) |
+| **United States** ![][flag_US] | **7** | 6 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/79232333) |
+| **Brazil** ![][flag_BR] | **7** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/79244750) |
+
+Sunday, 28 March 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ![][flag_KR] | 2 | **7** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/79267151) |
+| Italy ![][flag_IT] | 6 | **7** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/79298956) |
+| United States ![][flag_US] | 2 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/79334060) |
+
+### Quarterfinals
+
+Saturday, 20 March 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Philippines ![][flag_PH] | 4 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/78548578) |
+| Malaysia ![][flag_MY] | 3 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/78552131) |
+| **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/78555915) |
+| Italy ![][flag_IT] | 1 | **6** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/78581348) |
+
+Sunday, 21 March 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ![][flag_US] | 1 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/78615570) |
+| **South Korea** ![][flag_KR] | **6** | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/78619292) |
+| Thailand ![][flag_TH] | 2 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/78626428) |
+| **Taiwan** ![][flag_TW] | **6** | 0 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/78649420) |
+
+### Round of 16
+
+Saturday, 13 March 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Philippines ![][flag_PH] | 1 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/77952082) |
+| Germany ![][flag_DE] | 5 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/77955289) |
+| **Argentina** ![][flag_AR] | **6** | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/77959235) |
+| **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/77963937) |
+
+Sunday, 14 March 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | 0 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/78023120) |
+| Taiwan ![][flag_TW] | 1 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/78026482) |
+| Portugal ![][flag_PT] | 0 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/78051556) |
+| **Italy** ![][flag_IT] | **6** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/78059865) |
+
+### Group Stage
+
+Saturday, 6 March 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Italy** ![][flag_IT] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/77352667) |
+| **Taiwan** ![][flag_TW] | **5** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/77354834) |
+| **Germany** ![][flag_DE] | **5** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/77358209) |
+| **Thailand** ![][flag_TH] | **5** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/77357411) |
+| France ![][flag_FR] | 2 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/77357454) |
+| **Thailand** ![][flag_TH] | **5** | 3 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/77359879) |
+| **Japan** ![][flag_JP] | **5** | 1 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/77360103) |
+| **South Korea** ![][flag_KR] | **5** | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/77363567) |
+| **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/77366593) |
+| **Japan** ![][flag_JP] | **5** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/77366598) |
+| **Indonesia** ![][flag_ID] | **5** | 0 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/77370481) |
+| United Kingdom ![][flag_GB] | 3 | **5** | ![][flag_PT] **Portugal** | [#1](https://osu.ppy.sh/community/matches/77370473) |
+| **Italy** ![][flag_IT] | **5** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/77370179) |
+| **Malaysia** ![][flag_MY] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/77370451) |
+| **Poland** ![][flag_PL] | **5** | 3 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/77375440) |
+| **Germany** ![][flag_DE] | **5** | 0 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/77375081) |
+| **Argentina** ![][flag_AR] | **5** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/77375851) |
+| **Canada** ![][flag_CA] | **5** | 0 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/77378963) |
+| **Portugal** ![][flag_PT] | **5** | 1 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/77378954) |
+| **Finland** ![][flag_FI] | **5** | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/77384108) |
+| **Canada** ![][flag_CA] | **5** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/77383631) |
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/77383848) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/77389214) |
+| **Brazil** ![][flag_BR] | **5** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/77388556) |
+| **Argentina** ![][flag_AR] | **5** | 0 | ![][flag_CR] Costa Rica | *win by default* |
+
+Sunday, 7 March 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Mexico** ![][flag_MX] | **5** | 4 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/77416885) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/77421221) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/77423460) |
+| **Canada** ![][flag_CA] | **5** | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/77423467) |
+| **Philippines** ![][flag_PH] | **5** | 0 | ![][flag_CR] Costa Rica | [#1](https://osu.ppy.sh/community/matches/77423390) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/77423469) |
+| **Indonesia** ![][flag_ID] | **5** | 0 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/77427027) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/77427193) |
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/77441249) |
+| **Australia** ![][flag_AU] | **5** | 4 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/77443299) |
+| **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/77443362) |
+| **China** ![][flag_CN] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/77443288) |
+| **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/77448564) |
+| **Italy** ![][flag_IT] | **5** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/77448610) |
+| **Philippines** ![][flag_PH] | **5** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/77448327) |
+| **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/77451684) |
+| **Germany** ![][flag_DE] | **5** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/77455069) |
+| **Brazil** ![][flag_BR] | **5** | 1 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/77455070) |
+| **Malaysia** ![][flag_MY] | **5** | 3 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/77455016) |
+| **Argentina** ![][flag_AR] | **5** | 3 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/77454922) |
+| **United Kingdom** ![][flag_GB] | **5** | 1 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/77455105) |
+| **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_CR] Costa Rica | [#1](https://osu.ppy.sh/community/matches/77454888) |
+| **Japan** ![][flag_JP] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/77458452) |
 
 ---
 

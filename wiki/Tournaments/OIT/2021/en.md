@@ -8,7 +8,7 @@ tags:
 
 ![OIT 2021 logo](img/logo.jpg)
 
-The **osu! Indonesia Tournament #11 (2021)** (***OIT 2021***) is an Indonesian double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) and co-hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), and ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825). It is the eleventh iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #11 (2021)** (***OIT 2021***) was an Indonesian double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) and co-hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), and ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825). It was the eleventh iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -32,9 +32,11 @@ The **osu! Indonesia Tournament #11 (2021)** (***OIT 2021***) is an Indonesian d
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 4 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool, 2 months of osu!supporter |
 
+![Profile badge](img/badge.jpg)
+
 ## Organization
 
-OIT 2021 is run by various osu! community members predominantly hailing from Indonesia.
+OIT 2021 was run by various osu! community members predominantly hailing from Indonesia.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -43,8 +45,8 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 | Mappool selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
 | Playtester | ![][flag_ID] [-Kiichirou-](https://osu.ppy.sh/users/5791467), ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545), ![][flag_ID] [Ganjo](https://osu.ppy.sh/users/9512538), ![][flag_ID] [Calliope Mori](https://osu.ppy.sh/users/2429128) |
 | Streamer | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [PanTsuArmy](https://osu.ppy.sh/users/9083094) |
-| Commentator | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [-Kiichirou-](https://osu.ppy.sh/users/5791467), ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988), ![][flag_ID] [Velstadt](https://osu.ppy.sh/users/6209095), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Reyuza](https://osu.ppy.sh/users/2454767) |
-| Referee | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_ID] [-Kiichirou-](https://osu.ppy.sh/users/5791467), ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [CookieSan](https://osu.ppy.sh/users/5634959), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [Ceress](https://osu.ppy.sh/users/11062015), ![][flag_ID] [Astrale](https://osu.ppy.sh/users/14667308) |
+| Commentator | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [-Kiichirou-](https://osu.ppy.sh/users/5791467), ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988), ![][flag_ID] [Velstadt](https://osu.ppy.sh/users/6209095), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Reyuza](https://osu.ppy.sh/users/2454767), ![][flag_ID] [fry](https://osu.ppy.sh/users/4917604) |
+| Referee | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_ID] [-Kiichirou-](https://osu.ppy.sh/users/5791467), ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [CookieSan](https://osu.ppy.sh/users/5634959), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [Ceress](https://osu.ppy.sh/users/11062015), ![][flag_ID] [Astrale](https://osu.ppy.sh/users/14667308), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966) |
 | Graphic designer | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 
@@ -73,7 +75,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 | 9 | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | 12.2 |
 | 10 | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) | 14.0 |
 | 11 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | 15.2 |
-| 12 | ![][flag_ID] [- Rosemary -](https://osu.ppy.sh/users/2526649) | 17.7 |
+| 12 | ![][flag_ID] [- Rosemary -](https://osu.ppy.sh/users/2526649) | 17.7¹ |
 | 13 | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 18.4 |
 | 14 | ![][flag_ID] [Skitzor](https://osu.ppy.sh/users/3353314) | 18.5 |
 | 15 | ![][flag_ID] [Herbayse](https://osu.ppy.sh/users/4924094) | 18.9 |
@@ -95,7 +97,141 @@ Listed below are players who qualified into the Round of 32 (along with their re
 | 31 | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) | 31.5 |
 | 32 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | 31.7 |
 
+¹ ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649) decided to withdrew from the competition entirely during the course of the Round of 32. Under the unanimous discretion of all staff members and other participating players, the* ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649) vs* ![][flag_ID] *[Venta](https://osu.ppy.sh/users/11320627) match was awarded to* ![][flag_ID] *[Venta](https://osu.ppy.sh/users/11320627) by default and* ![][flag_ID] *[Splacten](https://osu.ppy.sh/users/10018405), the 33rd-seeded player based on the Qualifier results, was later admitted in* ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649)'s place from the start of the Lower Bracket onwards.*
+
+## Podium
+
+![Champion: rho, 2nd place: Skydiver, 3rd place: Crezz](img/podium.jpg)
+
 ## Mappools
+
+### Finals week 2
+
+**[Download the mappack here! (164 MB)](https://drive.google.com/file/d/1skji2yO502KAPe9VHM2EqwbRlmmHq-Oh/view)**
+
+- NoMod
+  - [nao - Toaru Shoukoku no Ohime-sama ga (Lyruke) \[Ratifa\]](https://osu.ppy.sh/beatmapsets/1389145#osu/2868816)
+  - [technoplanet - Juvenile (Astronic) \[Ataraxis\]](https://osu.ppy.sh/beatmapsets/1280204#osu/2659368)
+  - [THE BINARY mido - Ego mo Id mo Tanjun ni (kuyusu) \[Expert\]](https://osu.ppy.sh/beatmapsets/1268824#osu/2636826)
+  - [Camellia - PSYCHO+HEROES (lcfc) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1404742#osu/2897138)
+  - [Frums - Star Of The COME ON!! (Zelq) \[Expert\]](https://osu.ppy.sh/beatmapsets/1276329#osu/2651796) 
+  - [II-L - VOSTOK-6 (DeviousPanda) \[Beyond\]](https://osu.ppy.sh/beatmapsets/1380791#osu/2852981)
+- Hidden
+  - [Nekomata Master+ - encounter (Realazy) \[Yusomi's Confusion\]](https://osu.ppy.sh/beatmapsets/815758#osu/2004828)
+  - [Buta-Otome - towa no maigo (Natteke desu) \[ar8 edit\]](https://osu.ppy.sh/beatmapsets/639108#osu/2900413)
+  - [Wagakki Band - Hanabi (toybot) \[Flask's Extra\]](https://osu.ppy.sh/beatmapsets/1214150#osu/2811451)
+  - [Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi) (Cut Ver.) (Ryuusei Aika) \[THRILL ABUSE\]](https://osu.ppy.sh/beatmapsets/1308842#osu/2716029)
+- HardRock
+  - [Powerless feat. Sennzai - Unrequited (VINXIS) \[Reunion\]](https://osu.ppy.sh/beatmapsets/543109#osu/1162811)
+  - [Falcom Sound Team jdk - Seductive Shudder (jonathanlfj) \[Bewitching Red Moon\]](https://osu.ppy.sh/beatmapsets/1306626#osu/2709095)
+  - [ZUN arr. Myon/iimode-do/Kagekichi - Plastic Mind (Celine) \[#OITedit\]](https://osu.ppy.sh/beatmapsets/1404241#osu/2896221)
+  - [Coda - BLOODY STREAM (Yudragen) \[LINEAGE\]](https://osu.ppy.sh/beatmapsets/1075797#osu/2251000)
+- DoubleTime
+  - [AZKi - without U (Bokamin) \[Yasai's Another\]](https://osu.ppy.sh/beatmapsets/1259830#osu/2619363)
+  - [S.S.H. - Sorcerian \~ Major Demon (Elcheer) \[oldrhythm\]](https://osu.ppy.sh/beatmapsets/1272001#osu/2651733)
+  - [Virtual Riot - Rampage (C00L) \[Zizou's Insane\]](https://osu.ppy.sh/beatmapsets/810556#osu/2301162)
+  - [KOTOKO - Wing my Way (CXu) \[Endless Sky\]](https://osu.ppy.sh/beatmapsets/850548#osu/1778268)
+- FreeMod
+  - [eisyo-kobu - Faithtival (Shiroha) \[Yokes' Extra\]](https://osu.ppy.sh/beatmapsets/1040472#osu/2260268)
+  - [YOASOBI - Yoru ni Kakeru (Petal) \[Acceptance\]](https://osu.ppy.sh/beatmapsets/1238759#osu/2575572)  
+- Tiebreaker
+  - **[Imperial Circus Dead Decadence - Gekiai No Yobigoe Ga Dekiai No Sakebigoe Wo Kurau (IsomirDiAngelo) \[Blindness and Tragedy\]](https://osu.ppy.sh/beatmapsets/1201605#osu/2502643)**
+
+### Finals week 1
+
+**[Download the mappack here! (160 MB)](https://drive.google.com/file/d/1ijv8NwJ1p-DUCBDoF76ZkTLuwhhPzd0A/view)**
+
+- NoMod
+  - [ABSOLUTE CASTAWAY - SPiNEL (Celine) \[Feline Collab #OITEdit\]](https://osu.ppy.sh/beatmapsets/1401813#osu/2891998)
+  - [xi - Longinus (Regou) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/1396101#osu/2881524)
+  - [Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo- (My Angel Watame) \[Corruption\]](https://osu.ppy.sh/beatmapsets/849824#osu/1776939)
+  - [Raphlesia & BilliumMoto - My Love (Mao) \[Our Love\]](https://osu.ppy.sh/beatmapsets/1388906#osu/2868388)
+  - [goreshit - xenobeat (fergas) \[DeathleSS\]](https://osu.ppy.sh/beatmapsets/1306568#osu/2708952) 
+  - [Hagane - Event Horizon (yaspo) \[Beyond Corsace\]](https://osu.ppy.sh/beatmapsets/1276324#osu/2651787)
+- Hidden
+  - [inabakumori - NON-USE (kuyusu) \[Expert\]](https://osu.ppy.sh/beatmapsets/1317045#osu/2728951)
+  - [P4koo - Forbidden Light (Gibune) \[ak74 & Garden's Ultra\]](https://osu.ppy.sh/beatmapsets/1279878#osu/2658705)
+  - [Dimrain47 - Infernoplex (AncuL) \[Planetary Collision 2021 but AR8.3\]](https://osu.ppy.sh/beatmapsets/780203#osu/2845272)
+  - [LeaF - Poison AND/OR Affection (Flask) \[Arithmetic Love\]](https://osu.ppy.sh/beatmapsets/1130436#osu/2361362)
+- HardRock
+  - [Feryquitous feat. Aitsuki Nakuru - Fake (captin1) \[Irregular\]](https://osu.ppy.sh/beatmapsets/1146723#osu/2394332)
+  - [Negentropy (a.k.a. Team Grimoire) - ouroVoros (Suzuki\_1112) \[Demonic Another\]](https://osu.ppy.sh/beatmapsets/707164#osu/1495322)
+  - [ABSOLUTE CASTAWAY - Dokoku no Mori (Celine) \[#OITedit feat. awan\]](https://osu.ppy.sh/beatmapsets/1337376#osu/2891992)
+  - [DUSTCELL - Anemone (Sparhten) \[Irrational\]](https://osu.ppy.sh/beatmapsets/1247651#osu/2593243)
+- DoubleTime
+  - [Mitchie M feat. Hatsune Miku with KAITO - Ohedo Julia-Night (Natsu) \[Dance Floor\]](https://osu.ppy.sh/beatmapsets/664099#osu/1405572)
+  - [MuryokuP - Mephisto (Niva) \[captin1's Insane (OIT Edit) (hi captin)\]](https://osu.ppy.sh/beatmapsets/1402174#osu/2892700)
+  - [Minase Inori, Hanazawa Kana, Iguchi Yuka, Hayami Saori - Koko kara, Koko kara (Asuka\_-) \[Sora\]](https://osu.ppy.sh/beatmapsets/840217#osu/1758793)
+  - [Juno Reactor - Magnetic (PandaHero) \[Insane (right version)\]](https://osu.ppy.sh/beatmapsets/1346647#osu/2890576)
+- FreeMod
+  - [Feryquitous - Ordirehv (ScubDomino) \[Abscibus\]](https://osu.ppy.sh/beatmapsets/1272110#osu/2643413)
+  - [Kurosawa Daisuke x Masahiro "Godspeed" Aoki - Dairokutenmaou (pw384) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1120841#osu/2371971)  
+- Tiebreaker
+  - **[Ariabl'eyeS - Senkou no Flare (Lyruke) \[Litmuss55\]](https://osu.ppy.sh/beatmapsets/1264419#osu/2695955)**
+
+### Semifinals
+
+**[Download the mappack here! (161 MB)](https://drive.google.com/file/d/1cLvH3PG2cnhJSfCTBY9Wqbs3Mbf2w4Ej/view)**
+
+- NoMod
+  - [ReoNa - ANIMA (SkyFlame) \[EVERLASTING\]](https://osu.ppy.sh/beatmapsets/1219288#osu/2536719)
+  - [xi - Bad Elixir (Cherry Blossom) \[Idealism\]](https://osu.ppy.sh/beatmapsets/878944#osu/1838165)
+  - [Akatsuki Records - BLOODSHED (Zelq) \[Extra\]](https://osu.ppy.sh/beatmapsets/937624#osu/1958623)
+  - [Camellia - #1f1e33 (Realazy) \[Acyl x Heilia's Extra\]](https://osu.ppy.sh/beatmapsets/1192060#osu/2708956)
+  - [UNDEAD CORPORATION - Bleed, hate, curse, and die (Weriko) \[Hate\]](https://osu.ppy.sh/beatmapsets/1269276#osu/2646572) 
+  - [Shimotsuki Haruka - Tsubasa o Motanai Shoujo (Dored) \[Rio's Eztra\]](https://osu.ppy.sh/beatmapsets/883825#osu/1866037)
+- Hidden
+  - [\*Luna feat. IA - Start Line (Cut Ver.) (Niva) \[Niva x Kuro Fuyusaki's Sea Food Extra\]](https://osu.ppy.sh/beatmapsets/1395285#osu/2880033)
+  - [Zips - Heisei Sayonara Bye Bye (X Light) \[\_Epreus' Sayonara\]](https://osu.ppy.sh/beatmapsets/1187102#osu/2602843)
+  - [Myrath - Dance (Axarious) \[Collab\]](https://osu.ppy.sh/beatmapsets/1142634#osu/2386204)
+  - [Yorushika - Thoughtcrime (Skydiver) \[Thought Criminal\]](https://osu.ppy.sh/beatmapsets/1268323#osu/2635938)
+- HardRock
+  - [ShinRa-Bansho - Pink Kurage to, Sotto, Kiss o Shita. (UberFazz) \[bongo's Extra Stage.\]](https://osu.ppy.sh/beatmapsets/1180982#osu/2485186)
+  - [L.E.D. - THE LAST STRIKER (Kloyd) \[Expert\]](https://osu.ppy.sh/beatmapsets/1085929#osu/2270810)
+  - [t+pazolite - Pee-Kan Breaks (Urushi38) \[yaaa\]](https://osu.ppy.sh/beatmapsets/179725#osu/432028)
+  - [toby fox vs. Ferdk - Battle Against a True Hero (Hobbes2) \[Genocide\]](https://osu.ppy.sh/beatmapsets/576030#osu/1457925)
+- DoubleTime
+  - [Zekk - SUMMER (\_Everlasting) \[Insane\]](https://osu.ppy.sh/beatmapsets/972446#osu/2052273)
+  - [Atogoru - Itoshi Kimi wo Mitsuke Ni (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#osu/96523)
+  - [zts - miragecoordinator (tricolor) \[nanairo\]](https://osu.ppy.sh/beatmapsets/1283092#osu/2664727)
+  - [Ceui - Hoshi Ori Yume Mirai (-Nanaka-) \[Silky's Insane\]](https://osu.ppy.sh/beatmapsets/268509#osu/1079089)
+- FreeMod
+  - [Isekai Joucho - Kyoukankaku Obake (Calvaria) \[melloe's Desperation\]](https://osu.ppy.sh/beatmapsets/1141909#osu/2385598)
+  - [DUSTCELL - CULT (anna apple) \[Love, Assault, and Worship\]](https://osu.ppy.sh/beatmapsets/1271997#osu/2643204)  
+- Tiebreaker
+  - **[ELFENSJoN - Akayake no Majo (Hey lululu) \[Scarlet World\]](https://osu.ppy.sh/beatmapsets/996649#osu/2084661)**
+
+### Quarterfinals
+
+**[Download the mappack here! (163 MB)](https://drive.google.com/file/d/1cWKli8nWJv5Biw6XMEU_hml1PjsYgHBN/view)**
+
+- NoMod
+  - [Kurosaki Maon - Setsuna no Kajitsu (jonathanlfj) \[captin lfj's Paradise\]](https://osu.ppy.sh/beatmapsets/332112#osu/1900365)
+  - [Ryu\* - Sakura Mirage (STARLiGHT Mix) (Jean-Michel Jr) \[Illusion\]](https://osu.ppy.sh/beatmapsets/765795#osu/1918015)
+  - [fripSide - only my railgun (Petal) \[Extraordinary\]](https://osu.ppy.sh/beatmapsets/1358802#osu/2811763)
+  - [Getty vs. DJ DiA - Engage-Rex (Realazy) \[Leadcore's Extra\]](https://osu.ppy.sh/beatmapsets/1336197#osu/2768158)
+  - [Gram (DJ Genki) - Nibelungen (Sakura Blossom) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1040056#osu/2557524) 
+  - [Gekidan Record feat. Nekomata Master - Houkou Orpheus (DeviousPanda) \[Mystery\]](https://osu.ppy.sh/beatmapsets/1257522#osu/2613064)
+- Hidden
+  - [Nor + YUC'e - Mint Comet (JrSzZ) \[Chromatic\]](https://osu.ppy.sh/beatmapsets/1000076#osu/2092293)
+  - [Amuro vs Killer - Mei (Acylica) \[Muya's Another\]](https://osu.ppy.sh/beatmapsets/1148799#osu/2411485)
+  - [Feryquitous - Quon-Extend- (captin1) \[hi niva\]](https://osu.ppy.sh/beatmapsets/1362537#osu/2858703)
+  - [Hana - Kuukirikigaku Shoujo to Shounen no Uta (Luscent) \[Garden & ak74's Jabberwocky Extra\]](https://osu.ppy.sh/beatmapsets/1164291#osu/2744129)
+- HardRock
+  - [fhana - Comet Lucifer \~The Seed and the Sower\~ (Nao Tomori) \[Nathan's Extra\]](https://osu.ppy.sh/beatmapsets/890244#osu/1861814)
+  - [UNDEAD CORPORATION - Through Your Optic (Sparhten) \[xChippy's Extra\]](https://osu.ppy.sh/beatmapsets/1022770#osu/2238838)
+  - [ak+q - Axium Crisis (MrSergio) \[Collapse\]](https://osu.ppy.sh/beatmapsets/812551#osu/1704329)
+  - [Shimotsuki Haruka - un secret (ImpurePug) \[rose\]](https://osu.ppy.sh/beatmapsets/1014611#osu/2125846)
+- DoubleTime
+  - [P4koo - 8th:Planet \~Re:search\~ (Niva) \[Chapter 1 : We Are Beyond Human\]](https://osu.ppy.sh/beatmapsets/1295410#osu/2687876)
+  - [nmk - sola (sjoy) \[cwR's Insane\]](https://osu.ppy.sh/beatmapsets/183267#osu/440413)
+  - [zts - goldenslaughterer (Dada) \[The First Twilight\]](https://osu.ppy.sh/beatmapsets/931948#osu/2367515)
+  - [frederic - ONLYWONDER (Faito) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1177496#osu/2466867)
+- FreeMod
+  - [nana(Sevencolors) - chameleon (RVMathew) \[Ojou\]](https://osu.ppy.sh/beatmapsets/1046876#osu/2202224)
+  - [Umeboshi Chazuke - Galaxy in Toybox (DC Update Ver.) (Star Stream) \[Mirash's Extra\]](https://osu.ppy.sh/beatmapsets/1155525#osu/2485087)  
+- Tiebreaker
+  - **[Receptor - Redstar (Raikozen) \[REALITY ECLIPSE\]](https://osu.ppy.sh/beatmapsets/996649#osu/2084661)**
 
 ### Round of 16
 
@@ -174,15 +310,156 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ## Match results
 
+### Finals (week 2)
+
+Friday, 26 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Crezz](https://osu.ppy.sh/users/7108275) ![][flag_ID] | 4 | **7** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/79111217) |
+
+Saturday, 27 March 2021, Grand Final:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | **[rho](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **7** | 4 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/79206937) |
+
+### Finals (week 1)
+
+Friday, 19 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Crezz](https://osu.ppy.sh/users/7108275) ![][flag_ID] | 4 | **7** | ![][flag_ID] **[rho](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/78462490) |
+
+Saturday, 20 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Fuma](https://osu.ppy.sh/users/1501956) ![][flag_ID] | 3 | **7** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/78552464) |
+| Lower | [Deeto](https://osu.ppy.sh/users/10069909) ![][flag_ID] | 3 | **7** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/78537165) |
+
+Sunday, 21 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Rexeez](https://osu.ppy.sh/users/1987591) ![][flag_ID] | 3 | **7** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/78642911) |
+
+### Semifinals
+
+Friday, 12 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[rho](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/77867003) |
+| Lower | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) | *win by default* |
+
+Saturday, 13 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Venta](https://osu.ppy.sh/users/11320627) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[Skitzor](https://osu.ppy.sh/users/3353314)** | [#1](https://osu.ppy.sh/community/matches/78048476) |
+| Lower | [cfood](https://osu.ppy.sh/users/8626190) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/77969671) |
+| Lower | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | [#1](https://osu.ppy.sh/community/matches/78052798) |
+
+Sunday, 14 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Skitzor](https://osu.ppy.sh/users/3353314) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/78055159) |
+| Lower | [MineFrostID](https://osu.ppy.sh/users/12159899) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/78060403) |
+
+Monday, 15 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Deeto](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/78129428) |
+
+### Quarterfinals
+
+Friday, 5 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Splacten](https://osu.ppy.sh/users/10018405) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Vvn](https://osu.ppy.sh/users/3204677)** | [#1](https://osu.ppy.sh/community/matches/77256653) |
+| Lower | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/77271481) |
+| Lower | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | [#1](https://osu.ppy.sh/community/matches/77259794) |
+
+Saturday, 6 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) | [#1](https://osu.ppy.sh/community/matches/77367126) |
+| Upper | **[Deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | [#1](https://osu.ppy.sh/community/matches/77358899) |
+| Lower | [Daffy](https://osu.ppy.sh/users/5968633) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Caruma](https://osu.ppy.sh/users/13187450)** | [#1](https://osu.ppy.sh/community/matches/77346023) |
+| Upper | **[rho](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) | [#1](https://osu.ppy.sh/community/matches/77353978) |
+| Lower | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | [#1](https://osu.ppy.sh/community/matches/77362941) |
+| Lower | **[Walfrid](https://osu.ppy.sh/users/6600809)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745) | *win by default* |
+
+Sunday, 7 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [cfood](https://osu.ppy.sh/users/8626190) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Crezz](https://osu.ppy.sh/users/7108275)** | [#1](https://osu.ppy.sh/community/matches/77454568) |
+| Upper | [Somay 287](https://osu.ppy.sh/users/4314559) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/77447312) |
+| Lower | **[Skitzor](https://osu.ppy.sh/users/3353314)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | [#1](https://osu.ppy.sh/community/matches/77445956) |
+| Lower | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | [#1](https://osu.ppy.sh/community/matches/77449082) |
+| Lower | [Caruma](https://osu.ppy.sh/users/13187450) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[MineFrostID](https://osu.ppy.sh/users/12159899)** | [#1](https://osu.ppy.sh/community/matches/77449175) |
+| Lower | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Vvn](https://osu.ppy.sh/users/3204677) | *win by default* |
+
+Wednesday, 10 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Walfrid](https://osu.ppy.sh/users/6600809) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Skitzor](https://osu.ppy.sh/users/3353314)** | [#1](https://osu.ppy.sh/community/matches/77674562) |
+
+### Round of 16
+
+Friday, 26 February 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Clayweg](https://osu.ppy.sh/users/11374005) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[Fayn](https://osu.ppy.sh/users/5390495)** | [#1](https://osu.ppy.sh/community/matches/76716454) |
+| Lower | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [fry](https://osu.ppy.sh/users/4917604) | [#1](https://osu.ppy.sh/community/matches/76709741) |
+
+Saturday, 27 February 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Lifeline](https://osu.ppy.sh/users/11367222) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[Crezz](https://osu.ppy.sh/users/7108275)** | [#1](https://osu.ppy.sh/community/matches/76808576) |
+| Upper | **[rho](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Vvn](https://osu.ppy.sh/users/3204677) | [#1](https://osu.ppy.sh/community/matches/76812531) |
+| Lower | [ngonk](https://osu.ppy.sh/users/12030070) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[Splacten](https://osu.ppy.sh/users/10018405)** | [#1](https://osu.ppy.sh/community/matches/76812408) |
+| Lower | [Xicyte](https://osu.ppy.sh/users/10212581) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[Takaichi](https://osu.ppy.sh/users/909745)** | [#1](https://osu.ppy.sh/community/matches/76812367) |
+| Lower | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Contra](https://osu.ppy.sh/users/12011863) | *win by default* |
+
+Sunday, 28 February 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Herbayse](https://osu.ppy.sh/users/4924094) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[xHirayuki](https://osu.ppy.sh/users/3245206)** | [#1](https://osu.ppy.sh/community/matches/76884463) |
+| Upper | [MineFrostID](https://osu.ppy.sh/users/12159899) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[Venta](https://osu.ppy.sh/users/11320627)** | [#1](https://osu.ppy.sh/community/matches/76881981) |
+| Lower | [Suikami](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[Caruma](https://osu.ppy.sh/users/13187450)** | [#1](https://osu.ppy.sh/community/matches/76890847) |
+| Lower | **[Firia](https://osu.ppy.sh/users/9730262)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Eliz](https://osu.ppy.sh/users/11759284) | *win by default* |
+
+Monday, 1 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Skydiver](https://osu.ppy.sh/users/4750008) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[cfood](https://osu.ppy.sh/users/8626190)** | [#1](https://osu.ppy.sh/community/matches/76898577) |
+| Upper | **[Deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | [#1](https://osu.ppy.sh/community/matches/76954986) |
+| Upper | [Rexeez](https://osu.ppy.sh/users/1987591) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[LoidKun](https://osu.ppy.sh/users/6437601)** | [#1](https://osu.ppy.sh/community/matches/76964797) |
+| Upper | **[Somay 287](https://osu.ppy.sh/users/4314559)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Skitzor](https://osu.ppy.sh/users/3353314) | [#1](https://osu.ppy.sh/community/matches/76960778) |
+| Upper | [Walfrid](https://osu.ppy.sh/users/6600809) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/76974828) |
+
 ### Round of 32
 
-Friday, 19 February 2020:
+Friday, 19 February 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Eliz](https://osu.ppy.sh/users/11759284) | [#1](https://osu.ppy.sh/community/matches/76158374) |
 
-Saturday, 20 February 2020:
+Saturday, 20 February 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -191,7 +468,7 @@ Saturday, 20 February 2020:
 | Upper | [Herbayse](https://osu.ppy.sh/users/4924094) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[Vvn](https://osu.ppy.sh/users/3204677)** | [#1](https://osu.ppy.sh/community/matches/76239726) |
 | Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/3245206) | *win by default* |
 
-Sunday, 21 February 2020:
+Sunday, 21 February 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -204,12 +481,18 @@ Sunday, 21 February 2020:
 | Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | [#1](https://osu.ppy.sh/community/matches/76325491) |
 | Upper | [- Rosemary -](https://osu.ppy.sh/users/2526649) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Venta](https://osu.ppy.sh/users/11320627)** | *win by default* |
 
-Monday, 22 February 2020:
+Monday, 22 February 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | [#1](https://osu.ppy.sh/community/matches/76407719) |
 | Upper | **[Skitzor](https://osu.ppy.sh/users/3353314)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [fry](https://osu.ppy.sh/users/4917604) | [#1](https://osu.ppy.sh/community/matches/76396612) |
+
+Wednesday, 24 February 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[LoidKun](https://osu.ppy.sh/users/6437601)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/76636383) |
 
 ## Ruleset
 

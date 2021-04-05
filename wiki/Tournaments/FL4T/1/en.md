@@ -18,10 +18,10 @@ The **osu!mania Flashlight 4K Tournament** (***FL4T***) is a 1v1 osu!mania 4-key
 | Qualifiers | 2021-02-06/2021-02-07 |
 | Group Stage | 2021-02-13/2021-02-14 |
 | Round of 16 | 2021-02-20/2021-02-21 |
-| Quarterfinals | 2021-02-27/2021-02-28 |
-| Semifinals | 2021-03-06/2021-03-07 |
-| Finals | 2021-03-13/2021-03-14 |
-| Grand Finals | 2021-03-20/2021-03-21 |
+| Quarterfinals | 2021-02-23/2021-02-28 |
+| Semifinals | 2021-03-03/2021-03-07 |
+| Finals week 1 | 2021-03-13/2021-03-14 |
+| Finals week 2 | 2021-03-20/2021-03-21 |
 
 ## Prizes
 
@@ -76,6 +76,76 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 | **H** | ![][flag_GB] [TingMomentum](https://osu.ppy.sh/users/12489832) | ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132) | ![][flag_TH] [IjustLuvBanana](https://osu.ppy.sh/users/16011592) |
 
 ## Mappools
+
+### Finals week 2
+
+- Rice
+  - [SKAN - Give It To Dem (feat. Highdiwaan & Drama B) (furret osu) \[Deliverance\]](https://osu.ppy.sh/beatmapsets/1332508#mania/2760801)
+  - [Scatman John - Scatman's World (-Rem-) \[Salute\]](https://osu.ppy.sh/beatmapsets/1094377#mania/2287195)
+  - [DJ SHARPNEL - STRANGEPROGRAM (Shoegazer) \[Malfunction 1.1x (237bpm)\]](https://osu.ppy.sh/beatmapsets/1393835#mania/2888392)
+  - [Manuel - Gas Gas Gas (HowToPlayLN) \[RIce Rice RICE\]](https://osu.ppy.sh/beatmapsets/1056169#mania/2207626)
+  - [Gram VS Camellia - Ragnarok (Elekton) \[howls of gnipahellir\]](https://osu.ppy.sh/beatmapsets/761809#mania/1601809)
+  - [puru - Toki (maidable remix) (Shoegazer) \[Another 1.1x (192bpm)\]](https://osu.ppy.sh/beatmapsets/1306576#mania/2709003)
+  - [Yuuyu - Scrap Syndrome (Vortex-) \[Fatal 1.1x\]](https://osu.ppy.sh/beatmapsets/1224810#mania/2856150)
+- LN
+  - [cosMo VS dj TAKA - Kyokken (Raveille) \[Nocturne\]](https://osu.ppy.sh/beatmapsets/895828#mania/1871803)
+  - [Hige Driver - Ukigumo (Turtwig) \[FL4T IS BURNING (EDIT)\]](https://osu.ppy.sh/beatmapsets/1129799#mania/2360113)
+  - [loz - Cinderella Cage -Trancecore Mix- (Kamikaze) \[Tails' vs Kami's Lunatic\]](https://osu.ppy.sh/beatmapsets/925063#mania/2022076)
+  - [Memme - Pandemonium (guden) \[Pantheon\]](https://osu.ppy.sh/beatmapsets/1285631#mania/2669330)
+- Hybrid
+  - [Camellia - B L A C K - R A Y (Toaph Daddy) \[D A R K - M A G I C I A N\]](https://osu.ppy.sh/beatmapsets/1306124#mania/2707898)
+  - [Camellia - Dyscontrolled Galaxy (Penguinosity) \[H2PxP\]](https://osu.ppy.sh/beatmapsets/1328257#mania/2751545)
+- SV
+  - [Moe Shop & Hentai Dude - Superstar (Adri) \[Superstar\]](https://osu.ppy.sh/beatmapsets/1119993#mania/2339993)
+  - [ATLiens, Blanke - Contact (Orca-) \[TerrestriaL\]](https://osu.ppy.sh/beatmapsets/1370687#mania/2834133)
+- Tiebreaker
+  - **[ReeK - Possessed By Blood Moon (DannyPX) \[Hunted By A Werewolf\]](https://osu.ppy.sh/beatmapsets/1354629#mania/2803812)**
+
+### Finals week 1
+
+- Rice
+  - [SEREBRO - Mi Mi Mi (Sped Up Ver.) (Percyqaz) \[Only Me\]](https://osu.ppy.sh/beatmapsets/1193292#mania/2486376)
+  - [Fightstar - Floods (\[Crz\]Crysarlene) \[Uprising\]](https://osu.ppy.sh/beatmapsets/1130088#mania/2360664)
+  - [DJKurara - Last First Kingdom (Toaph Daddy) \[Destiny (update)\]](https://osu.ppy.sh/beatmapsets/886403#mania/2408124)
+  - [Galneryus - CAUSE DISARRAY (Valedict) \[PANDAMONIUM\]](https://osu.ppy.sh/beatmapsets/1246507#mania/2590877)
+  - [SP-# - tinnitus (stupud man) \[Guil's Inundation\]](https://osu.ppy.sh/beatmapsets/766340#mania/1636326)
+  - [MYUKKE. - BUNA\*SYNERGY!!! (11Bit) \[DOPING\*SYNERGY!!!\]](https://osu.ppy.sh/beatmapsets/1386499#mania/2864062)
+  - [The Flashbulb - Six Acid Strings (Mipha-) \[Apparition\]](https://osu.ppy.sh/beatmapsets/1301218#mania/2698918)
+- LN
+  - [HOLY SAMBA MASTER -SATOH- - Holy Samba Land (Jinjin) \[LN Master (No LN quadstream)\]](https://osu.ppy.sh/beatmapsets/476176#mania/1397619)
+  - [Nekomata Master - Funny shuffle (Hydria) \[Groove\]](https://osu.ppy.sh/beatmapsets/472442#mania/1009536)
+  - [Muramasa Qualia - Kurokami Midareshi Shura to Narite (\[Crz\]Crysarlene) \[Blossom\]](https://osu.ppy.sh/beatmapsets/1075348#mania/2250177)
+  - [Lite Show Magic - Make Magic (Turrim) \[LN Magic\]](https://osu.ppy.sh/beatmapsets/820697#mania/1720280)
+- Hybrid
+  - [Mameyudoufu - Citadel (RuleBlazing) \[edit\]](https://osu.ppy.sh/beatmapsets/1331802#mania/2846656)
+  - [Kabocha - EmbryO (Gekido-) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/936194#mania/1955790)
+- SV
+  - [40mP - Dan Dan Hayaku Naru (zero2snow) \[Accelerating\]](https://osu.ppy.sh/beatmapsets/960060#mania/2009992)
+  - [Camellia - Routing (Couil) \[Drifting\]](https://osu.ppy.sh/beatmapsets/1235559#mania/2568420)
+- Tiebreaker
+  - **[Camellia Vs. Expander - AZISAI (Long ver.) (MyZterioN-) \[Shattered Rain\]](https://osu.ppy.sh/beatmapsets/1138055#mania/2427865)**
+
+### Semifinals
+
+- Rice
+  - [Ken Arai - Galaxy (Xingyue-) \[ChordJack  1.1x\]](https://osu.ppy.sh/beatmapsets/1127142#mania/2355027)
+  - [Sai Oto / Komiya Mao - Yozakura (Mipha-) \[Prayer\]](https://osu.ppy.sh/beatmapsets/1180451#mania/2461500)
+  - [Halogen - U Got That (Camellia's Neurofunk Bootleg) (Azubeur) \[RicardoFlick\]](https://osu.ppy.sh/beatmapsets/937009#mania/1957455)
+  - [Betwixt & Between - hydra (short edit) (Shoegazer) \[rebellion 1.1x (209bpm)\]](https://osu.ppy.sh/beatmapsets/1372891#mania/2839177)
+  - [t+pazolite - Nous (Shoegazer) \[Supernova (222bpm)\]](https://osu.ppy.sh/beatmapsets/1215928#mania/2536653)
+  - [Kingbastard - ONCE A' (Pope Gadget) \[Stage 2: Corruption\]](https://osu.ppy.sh/beatmapsets/1075836#mania/2251066)
+- LN
+  - [EBIMAYO - GOODBOUNCE (juankristal) \[GOODLN\]](https://osu.ppy.sh/beatmapsets/974488#mania/2039768)
+  - [HHHxMMxST - Follow Tomorrow (STARLiGHT Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/873621#mania/1826057)
+  - [senya - Banbutsu no Ou (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/908627#mania/1895977)
+- Hybrid
+  - [MYUKKE. - Shera (PiraTom) \[VERMILION\]](https://osu.ppy.sh/beatmapsets/708675#mania/1498129)
+  - [lapix - Carry Me Away (arpia97) \[Daybreak\]](https://osu.ppy.sh/beatmapsets/858142#mania/1793444)
+- SV
+  - [sasakure.UK - Ruins (Neomorph remix) (Paturages) \[Shambles\]](https://osu.ppy.sh/beatmapsets/1367133#mania/2827325)
+  - [Rissyuu feat. Choko - Paa \~PaPaPaPaaver\~ (Tidek) \[d-\_-b\]](https://osu.ppy.sh/beatmapsets/1381649#mania/2854762)
+- Tiebreaker
+  - **[Broken By The Scream - KI RA I !! (lenpai) \[Pinchike\]](https://osu.ppy.sh/beatmapsets/1381380#mania/2854140)**
 
 ### Quarterfinals
 
@@ -143,6 +213,72 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 - Hybrid: [PSYQUI - Endless (Mameyudoufu Remix) (HowToPlayLN) \[Stage 4: Divergence\]](https://osu.ppy.sh/beatmapsets/1362356#mania/2818760)
 
 ## Match results
+
+### Finals week 1
+
+Saturday, 13 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| - l e j - ![][flag_PH] | 1 | **7** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/77960063) |
+| **stupud man** ![][flag_US] | **7** | 1 | ![][flag_GB] Zycrxd | [#1](https://osu.ppy.sh/community/matches/77997543) |
+
+Saturday, 14 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **TingMomentum** ![][flag_GB] | **7** | 1 | ![][flag_DE] LastExceed | [#1](https://osu.ppy.sh/community/matches/78072175) |
+| **TingMomentum** ![][flag_GB] | **0** | -1 | ![][flag_US] stupud man | *win by default* |
+
+### Semifinals
+
+Wednesday, 3 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **LastExceed** ![][flag_DE] | **6** | 1 | ![][flag_PH] Lawrence Angelo | [#1](https://osu.ppy.sh/community/matches/77112317) |
+
+Saturday, 6 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| \[-Leon-\] ![][flag_MY] | 2 | **6** | ![][flag_GB] **Zycrxd** | [#1](https://osu.ppy.sh/community/matches/77355139) |
+| WLYMinato ![][flag_CN] | 2 | **6** | ![][flag_FR] **ZayyKen** | [#1](https://osu.ppy.sh/community/matches/77360072) |
+| **LastExceed** ![][flag_DE] | **6** | 4 | ![][flag_FR] ZayyKen | [#1](https://osu.ppy.sh/community/matches/77366734) |
+
+Sunday, 7 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **zero2snow** ![][flag_HK] | **6** | 0 | ![][flag_MY] Cryolien | [#1](https://osu.ppy.sh/community/matches/77426947) |
+| TingMomentum ![][flag_GB] | 5 | **6** | ![][flag_PH] **- l e j -** | [#1](https://osu.ppy.sh/community/matches/77454939) |
+| stupud man ![][flag_US] | 3 | **6** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/77474976) |
+| zero2snow ![][flag_HK] | 1 | **6** | ![][flag_GB] **Zycrxd** | [#1](https://osu.ppy.sh/community/matches/77479718) |
+
+### Quarterfinals
+
+Tuesday, 23 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Lawrence Angelo** ![][flag_PH] | **5** | 0 | ![][flag_PH] MapleSyrup- | [#1](https://osu.ppy.sh/community/matches/76478839) |
+
+Saturday, 27 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| \[-Leon-\] ![][flag_MY] | 2 | **5** | ![][flag_PH] **- l e j -** | [#1](https://osu.ppy.sh/community/matches/76801034) |
+| **Zycrxd** ![][flag_GB] | **0** | -1 | ![][flag_TH] -\[DaNiel\_TH\]- | *win by default* |
+| WLYMinato ![][flag_CN] | 3 | **5** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/76812596) |
+| LastExceed ![][flag_DE] | 3 | **5** | ![][flag_US] **stupud man** | [#1](https://osu.ppy.sh/community/matches/76838962) |
+| zero2snow ![][flag_HK] | 1 | **5** | ![][flag_GB] **TingMomentum** | [#1](https://osu.ppy.sh/community/matches/76844451) |
+| Dellia ![][flag_ID] | -1 | **0** | ![][flag_MY] **Cryolien** | *win by default* |
+
+Sunday, 28 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Fr05tyGD ![][flag_ID] | 0 | **5** | ![][flag_FR] **ZayyKen** | [#1](https://osu.ppy.sh/community/matches/76890381) |
 
 ### Round of 16
 
